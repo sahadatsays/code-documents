@@ -1,15 +1,15 @@
 # HTTP Stuatus Codes.
 
 + 1xx : informational.
-    -> Request recieved / processing
+    + Request recieved / processing
 + 2xx: Success.
-    -> Successfully Recieved, understood and accepted.
+    + Successfully Recieved, understood and accepted.
 + 3xx: Redirect.
-    -> Further action must be taken / redirect.
+    + Further action must be taken / redirect.
 + 4xx: Client Error.
-    -> Requests does not have what it needs.
+    + Requests does not have what it needs.
 + 5xx: Server Error.
-    -> Server failed to fulfill an apparent valid request.
+    + Server failed to fulfill an apparent valid request.
 
 ---
 
